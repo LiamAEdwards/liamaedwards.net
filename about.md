@@ -1,18 +1,18 @@
 ---
-title: Colophon
+title: Liam A Edwards
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt:
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+I'm a Linux Site Reliability Engineer who started my career in the data centre where I did the usual crash cart, racking and stacking.
 
-If you have a question about him or else, just send a letter to him.
+I went into my data centre position with the dream of working towards a Linux SRE/sysadmin position.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+This blog is just a way for me to put things I am doing or learning down as some sort of record or portfolio. Will likely be a mixture of Linux, self-hosting and homelabbing, with some randomness on the side.
 
-**may u needs ✨**
+**Feel free to reach out**
 
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
