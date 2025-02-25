@@ -14,7 +14,8 @@ After a couple of years I was offered the ability to switch into a Linux Site Re
 
 My hobby of homelabbing, playing around with self-hosting and setting up things in VMs has kept me interested in learning more and having fun with Linux and software in general. I think without the ability to show what I have been up to on my homelab, I wouldn't have got the original offer into a Linux sysadmin position.
 
-This blog is just a way for me to put things I am doing or learning down as some sort of record or portfolio. Will likely be a mixture of Linux, self-hosting and homelabbing, with some randomness on the side.
+This blog serves as a way for me to document my ongoing projects, experiments, and learning experiences. Expect a mix of Linux-related content, self-hosting stuff, messing around and breaking my homelab, and a bit of randomness on the side.
 
 Cheers,
+
 Liam A Edwards
