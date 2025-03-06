@@ -6,8 +6,8 @@ permalink: /
 
 # Other Demo Pages
 
-[Light](https://b2a3e8.github.io/jekyll-theme-console-demo-light/)
-[Hacker](https://b2a3e8.github.io/jekyll-theme-console-demo-hacker/)
+[Light](https://liamaedwards.net/jekyll-theme-console-demo-light/)
+[Hacker](https://liamaedwards.net/jekyll-theme-console-demo-hacker/)
 
 # Welcome
 
