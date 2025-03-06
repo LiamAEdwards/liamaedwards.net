@@ -1,14 +1,9 @@
 ---
-title: /
+title: Liam A Edwards
 layout: home
 permalink: /
 ---
 
-# Other Demo Pages
+# Liam A Edwards
+Writing about Linux, self-hosting, homelabbing and other random gubbins.
 
-[Light](https://liamaedwards.net/jekyll-theme-console-demo-light/)
-[Hacker](https://liamaedwards.net/jekyll-theme-console-demo-hacker/)
-
-# Welcome
-
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
