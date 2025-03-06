@@ -1,5 +1,5 @@
 ---
-title: Liam A Edwards
+title: /liamaedwards
 layout: home
 permalink: /
 ---
